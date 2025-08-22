@@ -1,0 +1,13 @@
+title: My GitHub Pages Site
+description: A simple GitHub Pages site showcasing a scientific paper and a banner image.
+theme: minima
+url: https://bmansur.github.io/trabalho-integrador/
+baseurl: ""
+author:
+  name: Bruno Mansur
+  email: bruno.mansur@gmail.com
+  url: https://yourwebsite.com
+social:
+  twitter: https://twitter.com/rolimansur
+  github: https://github.com/bmansur
+  linkedin: https://www.linkedin.com/in/bruno-mansur/
